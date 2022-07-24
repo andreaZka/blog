@@ -1,4 +1,4 @@
-module blog
+module github.com/andreaZka/blog
 
 go 1.16
 
